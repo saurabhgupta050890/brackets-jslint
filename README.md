@@ -1,7 +1,7 @@
 brackets-jslint
 ===============
 
-A Brackets extension to enable JSLint linting support for JavaScript. This extension uses the 2014-07-08 release of [Douglas Crockford's JSLint](http://www.jslint.com/) tool.
+A Brackets extension to enable JSLint linting support for JavaScript. This extension uses the 2017-01-20 release of [Douglas Crockford's JSLint](http://www.jslint.com/) tool.
 
 Frequently Asked Questions
 --------------------------
